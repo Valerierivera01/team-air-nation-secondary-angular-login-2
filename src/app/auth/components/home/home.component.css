@@ -1,0 +1,18 @@
+body{
+    margin-top: 9cm;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    background:none;
+}
+.box {
+    position:absolute;
+    top:55px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    background-image:url(https://bamboovillageresortvn.com/wp-content/uploads/2018/11/rice-terrace-wallpapers-28843-1037363-1024x683.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+  } 

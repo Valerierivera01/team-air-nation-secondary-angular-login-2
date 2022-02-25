@@ -1,0 +1,55 @@
+body {
+    margin:0px;
+    font-family: 'Ubuntu', sans-serif;
+    background-size: 100% 110%;
+      margin: auto;
+      width: 50%;
+      border: .5em solid #2D4568;
+      border-radius: 15px;
+      padding: 10px;
+      background-color: #D2E1F8 ;
+  }
+  .box {
+    position:absolute;
+    top:55px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    background-color:#A1B5D3 ;
+  }
+
+.login{
+    box-sizing:border-box;
+    padding-top:15px;
+    padding-bottom:10%;
+    margin:5% auto;
+    text-align:center;
+    
+  }
+  h4{  
+    text-align: center;  
+    color: #0c4752;  
+    padding: 20px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+}  
